@@ -1,2 +1,2 @@
 # kaomoji
-Kaomoji dataset
+Kaomoji dataset scraped from kaomoji.ru.
